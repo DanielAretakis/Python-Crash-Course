@@ -5,6 +5,7 @@ import pyautogui
 import pyperclip
 
 pyautogui.PAUSE = 0.5
+# Passar para inglês
 
 pyautogui.press('win')
 pyautogui.write('Opera')
